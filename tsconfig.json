@@ -11,5 +11,6 @@
     ],
     "outDir": "./build"
   },
-  "exclude": ["build"]
+  "exclude": ["build"],
+  "types": ["@testing-library/jest-dom"]
 }
